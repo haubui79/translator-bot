@@ -1,1 +1,1 @@
-python bot.py
+translator_bot
