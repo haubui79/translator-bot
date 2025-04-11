@@ -1,1 +1,1 @@
-translator_bot
+main
